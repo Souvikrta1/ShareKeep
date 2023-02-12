@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShareKeep/static/css/main.1c9eefd9.css",
+    "main.js": "/ShareKeep/static/js/main.de9e3f65.js",
+    "index.html": "/ShareKeep/index.html",
+    "main.1c9eefd9.css.map": "/ShareKeep/static/css/main.1c9eefd9.css.map",
+    "main.de9e3f65.js.map": "/ShareKeep/static/js/main.de9e3f65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c9eefd9.css",
+    "static/js/main.de9e3f65.js"
+  ]
+}
